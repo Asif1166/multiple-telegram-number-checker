@@ -1,0 +1,15 @@
+.env
+*.session
+*.json
+dist/
+
+# JetBrains IDEs
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/*.py[cod]
+
+# Images downloaded
+*.jpg
+*.jpeg
